@@ -21,6 +21,10 @@ I'm focusing on clubs in the US first. Clubs in the following states have been a
 
 * Rhode Island
 * Maine
+* Vermont
+* New Hampshire
+* Connecticut
+* Massachusetts
 
 ## Contact & usage
 
