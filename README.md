@@ -25,6 +25,7 @@ I'm focusing on clubs in the US first. Clubs in the following states have been a
 * New Hampshire
 * Connecticut
 * Massachusetts
+* New Jersey
 
 ## Contact & usage
 
