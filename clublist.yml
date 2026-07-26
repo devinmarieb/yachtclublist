@@ -2013,7 +2013,7 @@
   country: USA
   founded: 1947
   website: https://www.wbyc.us
-  burgee: woodmere_bay_yc.png
+  burgee: woodmere_bay_yc.jpg
 - club:
   name: Richmond County Yacht Club
   city: Staten Island
@@ -2022,3 +2022,99 @@
   founded: 1923
   website: https://rcyachtclub.org/
   burgee: rcyachtclub.png
+- club:
+  name: The Belle Harbor Yacht Club
+  city: Belle Harbor, LI
+  state: New York
+  country: USA
+  founded: 1904
+  website: https://www.thebhyc.com/
+  burgee: belle_harbor_yc.png
+- club:
+  name: Glen Cove Yacht Club
+  city: Glen Cove, LI
+  state: New York
+  country: USA
+  founded: 1960
+  website: https://www.glencoveyachtclub.org/
+  burgee: glen_cove_yc.png
+- club:
+  name: Larchmont Yacht Club
+  city: Larchmont
+  state: New York
+  country: USA
+  founded: 1880
+  website: https://www.larchmontyc.org/
+  burgee: larchmont_yc.png
+- club:
+  name: Manhasset Bay Yacht Club
+  city: Manhasset, LI
+  state: New York
+  country: USA
+  founded: 1891
+  website: https://www.manhassetbayyc.org/
+  burgee: manhasset_bay_yc.png
+- club:
+  name: Miramar Yacht Club
+  city: Brooklyn
+  state: New York
+  country: USA
+  founded: 1932
+  website: https://www.miramaryc.com/
+  burgee: miramar_yc.png
+- club:
+  name: Morris Yacht and Beach Club
+  city: City Island, NY
+  state: New York
+  country: USA
+  founded: 1900
+  website: https://www.morrisybc.com/
+  burgee: morris_yc.png
+- club:
+  name: Nyack Boat Club
+  city: Nyack
+  state: New York
+  country: USA
+  founded: 1909
+  website: https://nyackboatclub.org/
+  burgee: nyack_yc.png
+- club:
+  name: Port Washington Yacht Club
+  city: Port Washington
+  state: New York
+  country: USA
+  founded: 1905
+  website: https://www.pwyc.com/
+  burgee: port_washington_yc.png
+- club:
+  name: Rockaway Point Yacht Club
+  city: Brooklyn
+  state: New York
+  country: USA
+  founded: 1909
+  website: https://www.rockawaypointyachtclub.com/
+  burgee: rockaway_point_yc.png
+- club:
+  name: Sheepshead Bay Yacht Club
+  city: Sheepshead Bay, Brooklyn
+  state: New York
+  country: USA
+  founded: 1908
+  website: https://www.sheepsheadbayyachtclub.com/
+  burgee: sheepshead_bay_yc.png
+- club:
+  name: Williamsburgh Yacht Club
+  city: Williamsburgh, Brooklyn
+  state: New York
+  country: USA
+  founded: 1865
+  website: https://www.thebhyc.com/
+  burgee: williamsburg_yc.png
+- club:
+  name: Yonkers Yacht Club
+  city: Yonkers
+  state: New York
+  country: USA
+  founded: 1879
+  website: https://yonkersyachtclub.com/
+  burgee: yonkers_yc.png
